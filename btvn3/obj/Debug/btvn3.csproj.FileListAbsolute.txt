@@ -1,0 +1,10 @@
+C:\Users\lel59\source\repos\btvn3\btvn3\bin\Debug\btvn3.exe.config
+C:\Users\lel59\source\repos\btvn3\btvn3\bin\Debug\btvn3.exe
+C:\Users\lel59\source\repos\btvn3\btvn3\bin\Debug\btvn3.pdb
+C:\Users\lel59\source\repos\btvn3\btvn3\obj\Debug\btvn3.csproj.AssemblyReference.cache
+C:\Users\lel59\source\repos\btvn3\btvn3\obj\Debug\btvn3.Form1.resources
+C:\Users\lel59\source\repos\btvn3\btvn3\obj\Debug\btvn3.Properties.Resources.resources
+C:\Users\lel59\source\repos\btvn3\btvn3\obj\Debug\btvn3.csproj.GenerateResource.cache
+C:\Users\lel59\source\repos\btvn3\btvn3\obj\Debug\btvn3.csproj.CoreCompileInputs.cache
+C:\Users\lel59\source\repos\btvn3\btvn3\obj\Debug\btvn3.exe
+C:\Users\lel59\source\repos\btvn3\btvn3\obj\Debug\btvn3.pdb
